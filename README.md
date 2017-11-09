@@ -5,7 +5,7 @@ That's Naive_bayes_from_scratch with the feature of entering your dataset name a
 
 Example:
 ```
-    python naive_bayes_from_scratch  [name of dataset]  [split Ratio [bigger than zero, less than one]]
+    python naive_bayes_from_scratch  <name of dataset> <split Ratio>
 ```
 For further Researching I highly suggest this site [Naive Bayes Wizard](https://machinelearningmastery.com/naive-bayes-classifier-scratch-python/)
   
